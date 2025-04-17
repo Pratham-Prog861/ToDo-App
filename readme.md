@@ -42,7 +42,8 @@ npm run dev
 
 4. **Open your browser and visit**
 ```
-URL_ADDRESS:5173```
+URL_ADDRESS:5173
+```
 
 ## 💡 Usage
 - Add a new todo by typing in the input field and pressing Enter or clicking Add
