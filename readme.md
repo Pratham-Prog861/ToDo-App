@@ -42,7 +42,7 @@ npm run dev
 
 4. **Open your browser and visit**
 ```
-URL_ADDRESS:5173
+http://localhost:5173/
 ```
 
 ## 💡 Usage
